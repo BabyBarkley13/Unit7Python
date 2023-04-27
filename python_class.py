@@ -71,7 +71,7 @@ print(leader2.passerA)
 print(leader2.height)
 print(leader2.apg + ' per game')
 
-leader3 = Best_Passer('Chris Paul', '6ft in', '9.5')
+leader3 = Best_Passer('Chris Paul', '6ft', '9.5')
 
 print(leader3.passerA)
 print(leader3.height)
